@@ -1,0 +1,20 @@
+.pre-header{
+    background-color:  #B36050;
+    text-align: center;
+    padding: 20px;
+    color: #F1D3B9;
+}
+.header_container ul {
+   display: flex;
+}
+.header_container a{
+    color: #B36050;
+    font-size: 20px;
+}
+.logo_link{
+    margin-left: 260px;
+    margin-top: -10px;
+}
+.li_right{
+    margin-left: 500px;
+}

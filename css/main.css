@@ -1,0 +1,122 @@
+@import "header.css";
+@import "footer.css";
+@import "common.css";
+
+.intro_section{
+    margin-top: -30px;
+}
+.texts{
+   text-align: center;
+   background-color: #A9AE8D;  
+   margin-top: -10px;
+   
+   margin-left: 5px;
+   padding: 80px;
+   color: #F6F4EC;
+}
+.intro_img{
+    width: 1420px;
+}
+.intro_p{
+    margin-top: -30px;
+}
+.intro_h2{
+    margin-top: 20px;
+    font-weight: 100px;
+}
+.intro_btn{
+    margin-top: 30px;
+    background-color:#B45F4D;
+    border: none;
+    padding: 9px 20px 10px 20px;
+    color: #F6F4EC;
+}
+.bottle{
+    background-color: #F6F4EC;
+}
+.text__2{
+    text-align: center;
+    font-size: 24px;
+    color: #B36050;
+    margin-top: 20px;
+}
+.cards{
+    padding: 23px 70px 145px 40px;
+    display: flex;
+}
+.card_1{
+    padding: 103px 40px 105px 40px;
+    color: #B36050;
+    font-size: 20px;
+}
+.card_1 p{
+    padding: 10px;
+}
+.img__1{
+    padding: 160px;
+    width: 1220px;
+    margin-left: 180px;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    background-image: url(../images/sets_bcg.png);
+}
+.card__1{
+    color: #F6F4EC;
+    background-color: #B36050;
+    display: inline-block;
+    padding: 40px;
+    width: 1060px;
+}
+.sets_section{
+    margin-left: 100px;
+    margin-top: 30px;
+}
+.sets_post{
+    margin-top: -150px;
+    display: flex;
+}
+.bck{
+    background-color: #DF9B7A;
+    display: flex;
+    padding: 30px 30px 30px;
+    width: 89.6%;
+}
+.sets_p{
+    background-color: #DF9B7A;
+    color:#F6F4EC;
+}
+.sets_b{
+    background-color: #DF9B7A;
+    color:#F6F4EC;
+    margin-left: 700px;
+}
+.meet{
+    margin-top: 100px;
+    background-color: #F1D3B9;
+    display: flex;
+}
+.img{
+    padding: 34px 190px 96px 159px;
+}
+.text{
+    background-color: #F6F4EC;
+    color: #B45F4D;
+   height: 500px;
+   padding: 30px;
+   margin-top: 100px;
+}
+.texts_p{
+    width: 400px;
+    font-size: 19px;
+}
+.p{
+    margin-right: 200px;
+    font-size: 19px;
+}
+.pre-footer h3{
+    text-align: center;
+    padding: 40px;
+}
+.images-pre_footer{
+    display: flex;
+}
